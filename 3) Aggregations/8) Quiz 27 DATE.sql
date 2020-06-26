@@ -28,6 +28,7 @@ order by 2 desc;
 
 --to be fair to the results 
 --we must remove the data from 2013 and 2017
+--because 2017 is not yet completed and 2013 was not from the starting
 select date_part('month',occurred_at),sum(total_amt_usd)
 from orders
 WHERE occurred_at BETWEEN '2014-01-01' AND '2017-01-01'
