@@ -7,3 +7,4 @@ You can restore the dummy dataset provided from udacity to your local machines f
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Here is the ERD for Parch And Posey.
+![ERD](https://raw.githubusercontent.com/RaviPabari/sql-data-science-udacity/master/0)%20Resources/erd.png)
